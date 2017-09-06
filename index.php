@@ -2,7 +2,7 @@
 ini_set("display_errors" , 1);
 ini_set("error_reporting" , E_ALL);	
 session_start();
-
+//test by aood 6/9/2017
 
 require_once 'member/dbconfig.php';
 
